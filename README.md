@@ -1,4 +1,4 @@
-## Freelancer Management System ##
+## Freelancer Project Management System ##
 
 ## 📌 Project Overview
 
@@ -134,7 +134,7 @@ To access the system:
 
 ## 🌐 Live Website (GitHub Pages)
 
-🔗 
+🔗 https://deena-zakri.github.io/freelancer-management-system/
 
 
 
