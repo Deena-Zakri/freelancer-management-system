@@ -1,2 +1,2 @@
-# freelancer-management-system
-ADVANCED WEB DESIGN DEVELOPMENT AND CONTENT MANAGEMENT (IMS566) INDIVDUAL ASSIGNMENT
+# Freelancer Management System
+
