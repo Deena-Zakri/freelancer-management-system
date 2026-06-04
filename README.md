@@ -1,4 +1,4 @@
-Freelancer Management System
+## Freelancer Management System ##
 
 ## 📌 Project Overview
 
