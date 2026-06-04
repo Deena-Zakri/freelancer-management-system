@@ -140,7 +140,7 @@ To access the system:
 
 ## 📁 GitHub Repository
 
-🔗 
+🔗 https://github.com/Deena-Zakri/Freelancer-Project-Management-System-IMS566-INDIVIDUAL-ASSIGNMENT-.git
 
 
 
