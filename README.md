@@ -1,7 +1,4 @@
 # Freelancer Management System
-
-# 🎯 Freelancer Management System
-
 ## 📌 Project Overview
 
 The **Freelancer Management System** is a web-based application developed as part of the IMS566 (Advanced Web Design Development and Content Management) course.
